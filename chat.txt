@@ -1,0 +1,16 @@
+12:04:14	 From  Rowena Foo : https://github.com/githubschool/github-games-USERNAME/invitations
+12:04:42	 From  Rowena Foo : https://github.com/githubschool/chariot/issues/1 <— comment here so i can generate a repo for you
+12:09:56	 From  Rowena Foo : Tom: https://github.com/githubschool/github-games-tphommarath/invitations
+12:14:03	 From  Rowena Foo : Srikanth: https://github.com/githubschool/github-games-rekulapally7/invitations
+12:14:19	 From  Tom : tomphom
+12:17:07	 From  Rowena Foo : Tom: https://github.com/githubschool/github-games-tphommarath/invitations
+12:23:32	 From  Rowena Foo : https://docsify.js.org/
+12:28:08	 From  Neha Verma : git clone https://github.com/githubschool/github-games-nehaverma292010.gitCloning into 'github-games-nehaverma292010'...fatal: https://github.com/githubschool/github-games-nehaverma292010.git/info/refs not valid: could not determine hash algorithm; is this a git repository?
+12:29:00	 From  Rowena Foo : git config --global http.verify false
+12:29:19	 From  Rowena Foo : git config —local http.verify false
+12:29:46	 From  Rowena Foo : git clone https://github.com/githubschool/github-games-USERNAME.git
+12:57:29	 From  Rowena Foo : git config --global alias.lol "log --oneline"
+13:38:18	 From  Rowena Foo : git log --global alias.lol "log --oneline"
+13:38:36	 From  Rowena Foo : ^ disregard the last command
+13:38:47	 From  Rowena Foo : it’s git config —global alias.lol “log —oneline"
+13:39:03	 From  Rowena Foo : for d in {1..6}; do touch file$d.md; git add file$d.md; git commit -m "adding file $d"; done
